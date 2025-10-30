@@ -1,4 +1,8 @@
 
+<img width="1024" height="1536" alt="cokiyi" src="https://github.com/user-attachments/assets/1c3e7185-34e9-4129-8169-0203e6021306" />
+
+
+
 <h2> 🚀 &nbsp;Some Tools I Have Used and Learned</h2>
 <p align="left">
 <img src="https://upload.wikimedia.org/wikipedia/commons/2/2c/Visual_Studio_Icon_2022.svg" alt="vs2022" width="45" height="45"/>
