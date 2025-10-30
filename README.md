@@ -1,5 +1,5 @@
 
-<img width="1024" height="1536" alt="cokiyi" src="https://github.com/user-attachments/assets/1c3e7185-34e9-4129-8169-0203e6021306" />
+
 
 
 
@@ -18,3 +18,6 @@
 <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" alt="vs2022" width="45" height="45"/>
 <img src="https://www.svgrepo.com/show/331760/sql-database-generic.svg" alt="vs2022" width="45" height="45"/>
 </p>
+
+<img width="1024" height="1536" alt="cokiyi" src="https://github.com/user-attachments/assets/1c3e7185-34e9-4129-8169-0203e6021306" />
+
