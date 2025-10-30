@@ -1,8 +1,4 @@
 
-![rick-and-morty-rick-rave](https://github.com/user-attachments/assets/02c84b02-4395-4a30-8ab1-435e58bf2935)
-
-
-
 <h2> 🚀 &nbsp;Some Tools I Have Used and Learned</h2>
 <p align="left">
 <img src="https://upload.wikimedia.org/wikipedia/commons/2/2c/Visual_Studio_Icon_2022.svg" alt="vs2022" width="45" height="45"/>
