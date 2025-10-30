@@ -1,4 +1,5 @@
-https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExYmg4ZjlnMXptbnB0NjN2NmlzcGoydjM2N3lmcDV6bzlwN3dteHFsZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L9mk9GYZjF9d4holUA/giphy.gif
+
+![rick-and-morty-rick-rave](https://github.com/user-attachments/assets/02c84b02-4395-4a30-8ab1-435e58bf2935)
 
 
 
