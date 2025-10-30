@@ -9,6 +9,7 @@
 
 <h2> 🚀 &nbsp;Languages That I Have Used</h2>
 <p align="left">
-<img src="https://www.svgrepo.com/show/508894/aspnet.svg" alt="vs2022" width="45" height="45"/>
 <img src="https://img.icons8.com/?size=100&id=1BC75jFEBED6&format=png&color=000000" alt="vs2022" width="45" height="45"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" alt="vs2022" width="45" height="45"/>
+
 </p>
