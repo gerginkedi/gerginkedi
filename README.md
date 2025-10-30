@@ -6,3 +6,8 @@
 <img src="https://www.svgrepo.com/show/354202/postman-icon.svg" alt="postman" width="45" height="45"/>
 <img src="https://upload.wikimedia.org/wikipedia/commons/e/e9/Notion-logo.svg" alt="postman" width="45" height="45"/>
 </p>
+
+<h2> 🚀 &nbsp;Languages That I Have Used</h2>
+<p align="left">
+<img src="https://www.svgrepo.com/show/508894/aspnet.svg" alt="vs2022" width="45" height="45"/>
+</p>
