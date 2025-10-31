@@ -8,6 +8,10 @@ on:
 
 jobs:
   build:
+    # Gerekli İzin: Bu job'un repoya kod push'layabilmesi için 'contents: write' izni.
+    permissions:
+      contents: write
+
     runs-on: ubuntu-latest
 
     steps:
@@ -22,13 +26,11 @@ jobs:
           github_user_name: gerginkedi
           
           # v3 Sürümü için doğru 'outputs' formatı
-          # Oluşturulacak dosyaların tam yolunu belirt
           outputs: |
             dist/github-contribution-grid-snake.gif
             dist/github-contribution-grid-snake.svg
 
       # Oluşturulan 'dist' klasörünü 'output' dalına gönder
-      # Bu adım, 'ad-m/github-push-action' adımının yerine geçer ve daha doğrudur
       - uses: crazy-max/ghaction-github-pages@v4
         with:
           # 'output' olarak adlandırılan dala gönder
@@ -37,4 +39,4 @@ jobs:
           build_dir: dist
         env:
           # GITHUB_TOKEN'ı bu adıma tanıt
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN
